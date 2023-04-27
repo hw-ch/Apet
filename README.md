@@ -31,6 +31,9 @@
 |자유게시판|• 모든 유저 게시물 확인 가능<br>• 가입 유저만 자유게시판 글 등록 기능<br>• 가입 유저 댓글 기능<br>• 게시물 검색 기능|
 |유기동물 보호소 확인|카카오맵으로 유기동물 보호소 확인|
 
+<strong>- DB 설계</strong>
+<img src="https://file.notion.so/f/s/067c2213-f53f-4200-8708-349ec504facc/apet.png?id=91020943-f7e7-4705-887b-fb648e2ad345&table=block&spaceId=43c03df8-58d2-49b3-b468-13d6af71e3e2&expirationTimestamp=1682671424221&signature=0Sx4prD8PCkU5wTFaV6gLKRKcjx_Nzv9XAysM4pAk8I&downloadName=apet.png">
+
 
 <strong>- 사용 기술</strong>
 
